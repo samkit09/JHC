@@ -1,3 +1,2 @@
 # JHC
-testing 
-Ignore this repository , just learning .
+testing , just learning .
